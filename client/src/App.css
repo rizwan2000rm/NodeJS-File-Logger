@@ -1,0 +1,23 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.logs {
+  padding: 30px;
+  margin: 0 auto;
+  width: 80vw;
+  height: 80vh;
+  overflow-y: auto;
+  border: 5px solid #ccc;
+}
+
+.logs h1 {
+  text-align: center;
+}
+
+pre {
+  margin: 0;
+}
